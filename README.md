@@ -8,4 +8,4 @@ Because the field of data science is still relatively new and continues to grow,
 
 The analysis in this notebook aims to provide a comprehensive overview of job titles and job responsibilities within the U.S. data science field. It examines demographic information such as age, gender, and levels of education as well as technology use and participants’ salaries and years of experience.
   
-View complete rendered notebook here: https://nbviewer/github/dfoster82>/github.com/dfoster82/whats-in-a-name
+View complete rendered notebook here: https://nbviewer/github/dfoster82/github.com/dfoster82/whats-in-a-name
